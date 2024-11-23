@@ -91,7 +91,8 @@ def contact():
         except Exception as e:
             print(f"Error: {e}")
             db.session.rollback()  # Rollback if there's an error
-        
+
+
     return render_template("contact.html", params = params)
 
 
