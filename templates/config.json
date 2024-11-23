@@ -1,0 +1,13 @@
+{
+    "params":
+    {
+        "local_server" : "True" ,
+        "local_uri" : "mysql+pymysql://root:@localhost/CleanBlog",
+        "prod_uri" : "mysql+pymysql://root:@localhost/CleanBlog",
+        "fb_url" : "facebook.com/CleanBlog",
+        "x_url" : "x.com/CleanBlog",
+        "gh_url" : "github.com/CleanBlog",
+        "mail-username" : "b2561d30997cda",
+        "mail-password" : "5c7df43a0300fe"
+    }
+}
