@@ -8,6 +8,12 @@
         "x_url" : "x.com/CleanBlog",
         "gh_url" : "github.com/CleanBlog",
         "mail-username" : "b2561d30997cda",
-        "mail-password" : "5c7df43a0300fe"
+        "mail-password" : "5c7df43a0300fe",
+        "about_text" : "Hello This is varshith.",
+        "no_of_posts" : 1,
+        "login_email" : "xred7698",
+        "login_pass" : "bhAAi",
+        "SECRET_KEY" : "super-secret-key",
+        "upload_location" : "/Users/varshith/Desktop/Blog/static/assets/img"
     }
 }
